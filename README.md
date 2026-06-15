@@ -6,7 +6,7 @@ model that predicts campaign engagement before launch.
 
 ## Dashboard Preview
 
-> Add your best chart screenshot here
+
 ![Feature Importance](feature_importance.png)
 
 ## The Business Problem
